@@ -1,0 +1,4 @@
+md\utm\entity\Elev.class
+md\utm\controller\ElevController.class
+md\utm\repository\elevRepository.class
+md\utm\SchoolManagementApplication.class
